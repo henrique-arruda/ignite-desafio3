@@ -6,23 +6,13 @@
     Desafio 01 criando um hook de carrinho de compras. [Chapter II]
 </h3>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elianbecali/rocketshoes?style=flat-square&&color=%2304D361" />
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/elianbecali/rocketshoes?style=flat-square" />
 	
   <img src="https://img.shields.io/github/stars/elianbecali/rocketshoes?style=flat-square" />
   
-  <img src="https://img.shields.io/github/license/elianbecali/rocketshoes?style=flat-square" />
 
-  <a href="https://github.com/elianbecali/rocketshoes/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elianbecali/rocketshoes?style=flat-square&">
-  </a>
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Elian%20Becali-%237519C1?style=flat-square&">
-  </a>
-  
  
 </p>
 
